@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **React Js ,fronted technology**
+- 🌱 I’m currently learning ** fronted technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shawky55](https://github.com/shawky55)
 
