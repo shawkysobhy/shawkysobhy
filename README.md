@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React & Frontend in general**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-shawkysobhy.vercel.app/](https://portfolio-shawkysobhy.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://shawky-sobhy.vercel.app/](https://shawky-sobhy.vercel.app/)
 
 - 💬 Ask me about **react, javascript, typescript, Mui ,tailwind**
 
