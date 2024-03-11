@@ -11,8 +11,10 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1a2Atq24jMS1u7J9lkwBvZye90U9wpdL0](https://drive.google.com/drive/folders/1a2Atq24jMS1u7J9lkwBvZye90U9wpdL0)
 
-<h3 align="left">Connect with me:</h3>
-Linkedin [https://www.linkedin.com/in/shawky-sobhy/](https://www.linkedin.com/in/shawky-sobhy/)
+- Linkedin : [LinkedIn](https://www.linkedin.com/in/shawky-sobhy/)
+
+
+
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
