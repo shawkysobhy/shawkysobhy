@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **shawkysobhy98@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1a2Atq24jMS1u7J9lkwBvZye90U9wpdL0](https://drive.google.com/drive/folders/1a2Atq24jMS1u7J9lkwBvZye90U9wpdL0)
 
 - Linkedin : [LinkedIn](https://www.linkedin.com/in/shawky-sobhy/)
 
