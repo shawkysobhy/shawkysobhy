@@ -1,18 +1,12 @@
-<br clear="both">
 
-<h3 align="center"> Hi! My name is Shawky <br/>
-I'm a Frontend Developer <br/>
-Next & React Developer
-</h3>
-<div align="center">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shawkysobhy&label=Profile%20views&color=0e75b6&style=flat" alt="shawkysobhy" /> </p>
+<h3 align="left"> Hi !👋🏻 My name is Shawky I'm a Frontend Developer ( Next & React Developer) </h3>
+<div align="left">
 </div>
-<br clear="both">
-<h3 align="center">
+<h3 align="left">
     Technical skills :
 </h3>
 
-<div align="center" style="display: flex; gap: .5rem">
+<div align="left" style="display: flex; gap: .5rem">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -22,25 +16,24 @@ Next & React Developer
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="material ui logo"  /> <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
 </div>
 
-<h3 align="center">
+<h3 align="left">
     Tools & Utilities:
 </h3>
-<div align="center" style="display:flex; gap:.5rem">
+<div align="left" style="display:flex; gap:.5rem">
 <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  /> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" height="40" alt="vercal logo"  /> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="40" alt="github logo"  /> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" height="40" alt="git logo"  /> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" height="40" alt="bash logo"  />
 </div>
-<h3 align="center">
+<h3 align="left">
     Connect with me:
 </h3>
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/shawky-sobhy/" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="52" height="40" alt="linkedin logo"/></a> 
     <a href="mailto:shawkysobhy98@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-<h5 align="center"> you can check my portfilo at <a href="https://shawky-sobhy.vercel.app/" target="_blank">https://shawky-sobhy.vercel.app/</a></h5>
-<h5 align="center"> you can react me at<a href="mailto:shawkysobhy98@gmail.com" target="_blank">shawkysobhy98@gmail.com/</a></h5>
+<h4 align="left"> you can check my portfilo at <a href="https://shawky-sobhy.vercel.app/" target="_blank">https://shawky-sobhy.vercel.app/</a></h4>
+<h4 align="left"> you can react me at<a href="mailto:shawkysobhy98@gmail.com" target="_blank">shawkysobhy98@gmail.com/</a></h4>
 
 
 
