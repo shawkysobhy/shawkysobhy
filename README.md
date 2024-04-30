@@ -32,10 +32,10 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-<h4 align="left"> you can check my portfolio at <a href="https://shawky-sobhy.vercel.app/" target="_blank" >https://shawky-sobhy.vercel.app/</a></h4>
-<h4 align="left"> updated resume at <a href="https://drive.google.com/drive/folders/1a2Atq24jMS1u7J9lkwBvZye90U9wpdL0?usp=drive_link" target="_blank" >Google Drive |Resume</a></h4>
+<h4 align="left"> Portfolio at <a href="https://shawky-sobhy.vercel.app/" target="_blank" >https://shawky-sobhy.vercel.app/</a></h4>
+<h4 align="left">Updated resume at <a href="https://drive.google.com/drive/folders/1a2Atq24jMS1u7J9lkwBvZye90U9wpdL0?usp=drive_link" target="_blank" >Google Drive |Resume</a></h4>
 
-<h4 align="left"> you can reach me at<a href="mailto:shawkysobhy98@gmail.com" target="_blank"> shawkysobhy98@gmail.com/</a></h4>
+<h4 align="left"> Get in touch with me via email <a href="mailto:shawkysobhy98@gmail.com" target="_blank"> shawkysobhy98@gmail.com/</a></h4>
 
 
 
